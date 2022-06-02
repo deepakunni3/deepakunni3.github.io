@@ -1,0 +1,4 @@
+baseURL = "https://deepakunni3.github.io"
+theme = "congo"
+defaultContentLanguage = "en"
+title = "DU3"
