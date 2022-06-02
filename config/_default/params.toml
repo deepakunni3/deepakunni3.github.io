@@ -1,0 +1,36 @@
+colorScheme = "fire"
+defaultAppearance = "light"
+showAppearanceSwitcher = true
+enableSearch = true
+enableCodeCopy = true
+
+[homepage]
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = false
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = false
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = false
+
+
+[list]
+  showBreadcrumbs = false
+  showSummary = true
+  showTableOfContents = false
+  groupByYear = false
+
+
+[taxonomy]
+  showTermCount = true

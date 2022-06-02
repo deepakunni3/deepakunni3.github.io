@@ -1,0 +1,19 @@
+theme = "congo"
+defaultContentLanguage = "en"
+paginate = 10
+summaryLength = 0
+title = "DU3"
+
+[author]
+name = "Deepak Unni"
+image = "images/photo.png"
+headline = "Bioinformatician. Software Developer. Semantic Data Engineer."
+bio = "This is where bio comes in"
+links = [
+    { link = "https://deepakunni3.github.io" },
+    { github = "https://github.com/deepakunni3" },
+    { instagram = "https://instagram.com/deepakunni3" },
+    { linkedin = "https://linkedin.com/in/deepakunni3" },
+    { orcid = "https://orcid.org/0000-0002-3583-7340" },
+    { twitter = "https://twitter.com/deepakunni3" }
+]
