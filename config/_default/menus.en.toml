@@ -1,7 +1,7 @@
-[[main]]
-    name = "About"
-    pageRef = "about.md"
-    weight = 10
+#[[main]]
+#    name = "About"
+#    pageRef = "about.md"
+#    weight = 10
 
 [[main]]
   name = "Blog"
